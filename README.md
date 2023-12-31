@@ -3,8 +3,8 @@
 ### Description
 This project uses jsonwebtokens to make authenticated requests to the server after signing in
 
-To run the project
--run npm install in the project directory \n
+To run the project<br>
+-run npm install in the project directory <br>
 -run node index.js
 
 ## Routes
