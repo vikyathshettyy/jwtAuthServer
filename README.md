@@ -3,6 +3,10 @@
 ### Description
 This project uses jsonwebtokens to make authenticated requests to the server after signing in
 
+To run the project
+-run npm install in the project directory
+-run node index.js
+
 ## Routes
 ### Admin Routes:
 - POST /admin/signup
